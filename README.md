@@ -38,3 +38,6 @@ Demonstrar habilidades práticas em SQL Server
 Servir de referência em processos seletivos
 **criar disciplina** de estudos contínuos
 Compartilhar conhecimento com a comunidade
+
+
+
