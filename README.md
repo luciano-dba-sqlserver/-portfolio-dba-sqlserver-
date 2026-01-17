@@ -10,3 +10,15 @@ O objetivo deste portfólio é demonstrar na prática meus conhecimentos em:
 - Segurança
 - Troubleshooting
 - Linguagem SQL.
+
+---
+
+# 📂 Estrutura do Repositório
+
+**Portfolio_DBA_Pleno**
+
+- ├── 01_Administracao
+- ├── 02_QueryTuning
+- ├── 03_Troubleshooting
+- ├── 04_Seguranca
+- ├── 05_Linguagem_SQL
