@@ -22,3 +22,19 @@ O objetivo deste portfólio é demonstrar na prática meus conhecimentos em:
 - ├── 03_Troubleshooting
 - ├── 04_Seguranca
 - ├── 05_Linguagem_SQL
+
+- Cada pasta representa uma área essencial para quem está iniciando como DBA SQL Server.
+Os scripts foram organizados de forma clara para facilitar a evolução e consulta rápida.
+
+
+---
+
+## Objetivo do Portfólio
+
+## Este portfólio tem como propósito:
+
+Registrar minha evolução como profissional de bancos de dados
+Demonstrar habilidades práticas em SQL Server
+Servir de referência em processos seletivos
+**criar disciplina** de estudos contínuos
+Compartilhar conhecimento com a comunidade
